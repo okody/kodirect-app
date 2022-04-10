@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341041644802",
+    "project_id": "kodirect-d99d1",
+    "storage_bucket": "kodirect-d99d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341041644802:android:47d42d6acff4b6d19bae1b",
+        "android_client_info": {
+          "package_name": "com.kody.kodirect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341041644802-bocjep4m3v354916lmn6a8mvddc1vqcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDatBcbHLPJFabYNZp1p8oqs3xB-Xg5utA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341041644802-bocjep4m3v354916lmn6a8mvddc1vqcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
